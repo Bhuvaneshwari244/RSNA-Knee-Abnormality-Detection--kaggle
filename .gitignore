@@ -36,7 +36,7 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb  # Commented out - we want to include notebooks in repo
 
 # IDE
 .vscode/
